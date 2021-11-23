@@ -1,0 +1,2 @@
+Spēle "Karātavas"
+Valoda - python
