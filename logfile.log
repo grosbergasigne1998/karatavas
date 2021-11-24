@@ -1,0 +1,9 @@
+INFO:root:Programma tiek palaista
+WARNING:root:lietotaja ievades kluda (atkartojas)
+WARNING:root:lietotaja ievades kluda
+WARNING:root:lietotaja ievades kluda
+WARNING:root:lietotaja ievades kluda
+DEBUG:mysql.connector.connection:# _do_auth(): user: root
+DEBUG:mysql.connector.connection:# _do_auth(): self._auth_plugin: 
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Programma tiek aptureta
